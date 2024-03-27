@@ -3,7 +3,6 @@
 #include <string>   // Include string library
 
 using namespace std; // Use the standard namespace
-
 // Define Book class
 class Book {
     string title; // Title of the book
